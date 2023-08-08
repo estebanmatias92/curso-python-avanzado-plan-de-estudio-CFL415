@@ -31,3 +31,7 @@ INSERT INTO Orders (EmployeeID, Product) VALUES (2, 'Bananas');
 INSERT INTO Orders (EmployeeID, Product) VALUES (3, 'Cherries');
 INSERT INTO Orders (EmployeeID, Product) VALUES (1, 'Dates');
 INSERT INTO Orders (EmployeeID, Product) VALUES (2, 'Eclair');
+INSERT INTO Orders (EmployeeID, Product) VALUES (2, 'Banana');
+
+
+
