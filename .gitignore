@@ -164,12 +164,12 @@ cython_debug/
 
 # Study Plan
 **/solucion/
-**/curricular*
+**/curricular
 
 # Enabling Solutions
-#!/modulo-1/solucion/
-#!/modulo-2/solucion/
-#!/modulo-3/solucion/
+!/modulo-1/solucion/
+!/modulo-2/solucion/
+!/modulo-3/solucion/
 
 # Sqlite3
 *.sqbpro
